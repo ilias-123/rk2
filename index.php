@@ -19,6 +19,6 @@ for( $b=1; $b<11; $b++)
 { echo "<td>" , $a*$b , "</td>";}
 } echo "</tr>";
 echo "</table>";
-?>;
+?>
 </body>
 </html>
